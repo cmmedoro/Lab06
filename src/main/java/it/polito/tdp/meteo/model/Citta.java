@@ -9,8 +9,6 @@ public class Citta {
 	private List<Rilevamento> rilevamenti;
 	private int counter = 0;
 	
-	
-	
 	public Citta(String nome) {
 		this.nome = nome;
 	}
